@@ -1,4 +1,8 @@
-# SaWP-PowerWall-RackMounted-PCB-v.1.0.0
+# SaWP-PowerWall-RackMounted-PWRM-PCB-v.1.0.0
+DRAH Dan Hansen (C) 2018-19
+
+A PCB with holders for 18650 Li-Ion batteries, with onboard BMS/chargekontrol. Developed into a system with data output for use in HTML, on a Apache Webserver etc. With some basic visual status output. 
+
 This will be the first version made on PCB. I've made a lot of prototypes, and several is more advanced but I decided to make a working PCB to be able to test it in real.
 
 
